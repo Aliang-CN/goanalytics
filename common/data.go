@@ -5,5 +5,5 @@ const (
 )
 
 type DropDataRequest struct {
-	AppId string `json:appId`
+	AppId string `json:appId`						// appid
 }
